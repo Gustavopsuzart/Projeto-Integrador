@@ -313,8 +313,3 @@ Estudante de Inteligência em Análise de Dados
 SENAI Suíço-Brasileira
 
 ---
-
-```
-
-Esse README já está formatado para ficar bem apresentado na página principal do GitHub, com seções, tabelas e emojis.
-```
