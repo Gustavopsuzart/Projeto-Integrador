@@ -1,11 +1,11 @@
 # Projeto-Integrador
 
 ````markdown
-# 📊 Análise de Sentimentos em Avaliações de Marketplace
+📊 Análise de Sentimentos em Avaliações de Marketplace
 
 Projeto desenvolvido para a disciplina **PII 3**, com foco em **pré-processamento de dados**, **análise de sentimentos** e **avaliação de modelos**, utilizando avaliações de clientes de um marketplace.
 
-## 🎯 Objetivo
+🎯 Objetivo
 
 Aplicar técnicas de tratamento de dados e análise de sentimentos para estimar a nota de uma avaliação (**1 a 5 estrelas**) utilizando apenas o texto do comentário do cliente.
 
@@ -13,7 +13,7 @@ O projeto compara diferentes abordagens de análise de sentimentos e avalia sua 
 
 ---
 
-## 📂 Base de Dados
+📂 Base de Dados
 
 O projeto utiliza diferentes tabelas do marketplace, sendo a principal:
 
@@ -38,7 +38,7 @@ A análise concentra-se principalmente nas colunas:
 
 ---
 
-# 🔄 Fluxo do Projeto
+🔄 Fluxo do Projeto
 
 ```text
 Etapa 1 → Tipagem de Dados
