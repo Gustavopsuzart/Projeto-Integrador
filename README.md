@@ -304,12 +304,19 @@ Projeto desenvolvido como atividade da disciplina **PII 3**, aplicando conceitos
 * Análise de Sentimentos
 
 ---
+# 👨‍🏫 Orientador
 
-# 👨‍💻 Autor
+**Felipe Camargo**
+
+# 👨‍💻 Autores
 
 **Gustavo P. Suzart**
+**Diogo Eduardo Barbosa**
+**Davi Nakaharada**
+**Gabriel Campos da Paixão**
 
-Estudante de Inteligência em Análise de Dados
+
+Estudantes de Inteligência em Análise de Dados
 SENAI Suíço-Brasileira
 
 ---
